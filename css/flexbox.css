@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&display=swap');
+
+		.container{
+			padding: 10px;
+			border:solid 1px black;
+			background-color: black;
+
+		}
+
+		.box{
+			padding: 20px;
+			text-align: center;
+			color: white;
+			font-size: 3em;
+			font-family: 'Roboto Condensed', sans-serif; 
+		}
+
+		h3{
+			font-family: 'Roboto Condensed', sans-serif; 
+		}
+
+	/* clases para width */
+		.w-25{
+			width: 25%;
+		}
+
+		.w-50{
+			width: 50%;
+		}
+
+		.w-75{
+			width: 75%;
+		}	
+
+		.h-25{
+			height: 25%;
+		}
+
+		.h-300{
+			height: 300px;
+		}
+
+	/* Fondos colores */
+		.bg-red{
+			background-color: red;
+		}
+
+		.bg-grey{
+			background-color: grey;
+		}
+
+		.bg-yellow{
+			background-color: yellow;
+		}
+
+		.bg-green{
+			background-color: green;
+		}
+
+		.bg-blue{
+			background-color: blue;
+		}
+
+	/* Flex */
+		.flex-direction{
+			
+		}
+
+		.flex-wrap{
+			
+		}
+
+		.flex-flow{
+			
+		}
+
+		.justify-content{
+			
+		}
+
+		.align-items{
+			
+		}
+
+		.align-content{
+			
+		}
+
+		.flex-grow1{
+			
+		}
+
+		.flex-grow2{
+			
+		}
+
+		.flex-grow3{
+			
+		}
+
+		.order1{
+			
+		}
+
+		.order2{
+			
+		}
+
+		.order3{
+			
+		}
+
+		.order4{
+			
+		}
+
+		.order5{
+			
+		}
+
+		.align-self{
+			
+		}
